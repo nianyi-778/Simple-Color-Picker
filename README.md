@@ -19,7 +19,7 @@ To run the project on chrome, follow these steps:
 ### Installation
 1. Clone the repo or extract archive
    ```js
-   git clone https://github.com/AyushIyankan/Simple-Color-Picker.git
+   git clone https://github.com/nianyi-778/Simple-Color-Picker.git
    ```
 2. Go to extensions from settings or search the following on chrome browser:
    ```js
